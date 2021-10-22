@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-Using-Python
+This project is all about exploring the data of "E-Commerce Company - UK-based and registered non-store online retail" and how I managed all the missing values and corrected all columns with its respective data types. Finally, I used various Python visualization libraries to build more charts to answer all the business related queries. Since the dataset is greater than 25 mb, here I have given the link to the dataset. https://drive.google.com/file/d/1lZXwvMdwIFGFy5N7ypR64Ok828Jpaub7/view?usp=sharing
